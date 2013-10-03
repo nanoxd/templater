@@ -12,7 +12,7 @@ one:
 two:
   id: 2
   body: "Body"
-  path: "some/path"
+  path: "other/path"
   format: "html"
   locale: "en"
   handler: "erb"
